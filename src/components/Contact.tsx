@@ -54,7 +54,7 @@ const Contact = () => {
               <p className="text-muted-foreground mb-6">Explore my code repositories</p>
               <Button variant="social" size="lg" asChild className="w-full">
                 <a 
-                  href="https://github.com/satyajit-das" 
+                  href="https://github.com/satya-jit" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center justify-center"
