@@ -30,7 +30,7 @@ const Contact = () => {
               <p className="text-muted-foreground mb-6">Connect with me professionally</p>
               <Button variant="social" size="lg" asChild className="w-full">
                 <a 
-                  href="https://linkedin.com/in/satyajit-das" 
+                  href="https://www.linkedin.com/in/satyajit-das-86bbb948/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center justify-center"
