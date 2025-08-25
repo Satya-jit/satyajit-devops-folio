@@ -74,7 +74,7 @@ const Contact = () => {
             
             <div className="flex flex-col md:flex-row items-center justify-center gap-6">
               <Button variant="hero" size="lg" asChild>
-                <a href="mailto:satyajit@example.com" className="flex items-center">
+                <a href="mailto:satyajitdas0033@gmail.com" className="flex items-center">
                   <Mail className="w-5 h-5 mr-2" />
                   Email Me
                 </a>
@@ -103,7 +103,7 @@ const Contact = () => {
 
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-border/50 text-center text-muted-foreground">
-          <p>&copy; 2024 Satyajit Das. Built with modern DevOps practices.</p>
+          <p>&copy; 2025 Satyajit Das. Built with modern DevOps practices.</p>
         </div>
       </div>
     </section>
